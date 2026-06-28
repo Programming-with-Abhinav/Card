@@ -1,0 +1,5 @@
+{
+    "search.exclude": {
+        "Prettier - Code Formatter": true
+    }
+}
